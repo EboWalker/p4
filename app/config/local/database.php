@@ -25,7 +25,7 @@ return array(
 			'host'      => '127.0.0.1',
 			'database'  => 'taskapp',
 			'username'  => 'root',
-			'password'  => 'root',
+			'password'  => 'D0zALF9tSx',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
