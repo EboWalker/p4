@@ -2,7 +2,7 @@
 
 ## Live URL
 
-<http://p4.chadkirchner.me/public>
+<http://p4.chadkirchner.me/>
 
 ## Description
 A Task Application tool for creating, reading, updating, and deleting tasks. To keep you on top of things.
