@@ -1,0 +1,24 @@
+body
+{
+	padding: 0px;
+}
+
+body .top-header
+{
+	background-color: #1a242f;
+	color: white;
+	margin: 1px;
+	padding-top: 18px;
+	margin-top: inherit;
+}
+
+	body .top-header h1
+	{
+		margin:10px;
+	}
+
+form select{
+	color: #1a242f;
+	background-color: #ffffff;
+
+}
